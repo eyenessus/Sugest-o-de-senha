@@ -1,0 +1,16 @@
+C:\Users\nessu\Desktop\Esforço\bin\Debug\net5.0\Esforço.exe
+C:\Users\nessu\Desktop\Esforço\bin\Debug\net5.0\Esforço.deps.json
+C:\Users\nessu\Desktop\Esforço\bin\Debug\net5.0\Esforço.runtimeconfig.json
+C:\Users\nessu\Desktop\Esforço\bin\Debug\net5.0\Esforço.runtimeconfig.dev.json
+C:\Users\nessu\Desktop\Esforço\bin\Debug\net5.0\Esforço.dll
+C:\Users\nessu\Desktop\Esforço\bin\Debug\net5.0\ref\Esforço.dll
+C:\Users\nessu\Desktop\Esforço\bin\Debug\net5.0\Esforço.pdb
+C:\Users\nessu\Desktop\Esforço\obj\Debug\net5.0\Esforço.csproj.AssemblyReference.cache
+C:\Users\nessu\Desktop\Esforço\obj\Debug\net5.0\Esforço.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nessu\Desktop\Esforço\obj\Debug\net5.0\Esforço.AssemblyInfoInputs.cache
+C:\Users\nessu\Desktop\Esforço\obj\Debug\net5.0\Esforço.AssemblyInfo.cs
+C:\Users\nessu\Desktop\Esforço\obj\Debug\net5.0\Esforço.csproj.CoreCompileInputs.cache
+C:\Users\nessu\Desktop\Esforço\obj\Debug\net5.0\Esforço.dll
+C:\Users\nessu\Desktop\Esforço\obj\Debug\net5.0\ref\Esforço.dll
+C:\Users\nessu\Desktop\Esforço\obj\Debug\net5.0\Esforço.pdb
+C:\Users\nessu\Desktop\Esforço\obj\Debug\net5.0\Esforço.genruntimeconfig.cache
